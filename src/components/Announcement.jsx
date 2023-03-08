@@ -13,7 +13,7 @@ const Container= styled.div`
 
 const Announcement = () => {
   return (
-    <Container>Grab your deals now!!!</Container>
+    <Container>Grab your deals right now!!!</Container>
   )
 }
 
